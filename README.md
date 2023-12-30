@@ -5,8 +5,8 @@
 
 
 
-### Hi there, i'm blissartt!
-##### Always straving for new things to learn!
+## Hi there, i'm blissartt!
+#### Always straving for new things to learn!
 ==============
 
 
