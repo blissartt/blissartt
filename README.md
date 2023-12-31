@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="file:///home/superos/Pictures/ladro_di_cuori_user.png"/>
+  <img src="/home/superos/Pictures/ladro_di_cuori_user.png"/>
 </div>
 
 
