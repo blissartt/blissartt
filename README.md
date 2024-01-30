@@ -6,7 +6,7 @@
 
 
 ## Hi there, i'm blissartt!
-#### Always straving for new things to learn!
+#### Always hungering for new things to learn!
 ==============
 
 
