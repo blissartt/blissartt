@@ -5,8 +5,8 @@
 
 
 
-## Hi there, i'm blissartt!
-#### Always hungering for new things to learn!
+## Hi there, I'm blissartt!
+#### Always hungry for new things to learn!
 ==============
 
 
