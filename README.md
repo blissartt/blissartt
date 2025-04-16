@@ -25,7 +25,7 @@ code in Copilot.
 
 
 ## **WARNING:**
-**I am moving all my code to codeberg for the reasons cited above, I'll keep this as a mirror only repo from now on.**
+**I am moving all my code to codeberg for the reasons cited above, I'll keep this as an archived read-only repo from now on.**
 
 
 <!--
