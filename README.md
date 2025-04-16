@@ -24,8 +24,8 @@ without my permission.  I do not consent to GitHub's use of this repo's
 code in Copilot.
 
 
-WARNING:
-I am moving all my code to codeberg for the reasons cited above, I'll keep this as a mirror only repo from now on. 
+## **WARNING:**
+**I am moving all my code to codeberg for the reasons cited above, I'll keep this as a mirror only repo from now on.**
 
 
 <!--
