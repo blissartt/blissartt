@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fswebtoon-phinf.pstatic.net%2F20211018_4%2F1634551087128MPGeR_JPEG%2Fthumbnail.jpg&f=1&nofb=1&ipt=cc4314d4c320c6ac88696194ffa8741999c7502597ec3788d665b8d90849a692&ipo=images"/>
+  <img src="https://avatars.githubusercontent.com/u/146645211?s=400&u=65712cdb9da01972acc8f102b620c46ad1d2b021&v=4"/>
 </div>
 
 
